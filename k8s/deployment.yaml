@@ -17,3 +17,6 @@ spec:
           image: <ACR_LOGIN_SERVER>/azure-aks-demo:1.0
           ports:
             - containerPort: 3000
+
+
+#Replace <ACR_LOGIN_SERVER> later with your actual Azure Container Registry login server.
